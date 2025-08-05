@@ -1,6 +1,4 @@
-Here’s an example of a README.md file for your project, considering the provided Python scripts and project structure.
 
-```markdown
 # Inventory Management System
 
 This project is an Inventory Management System built using Python with a Tkinter GUI, SQLite for database management, and SQLAlchemy for ORM-based interactions with the database.
@@ -79,6 +77,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tkinter for the GUI.
 - SQLAlchemy for ORM-based database management.
 - SQLite for the lightweight database.
-```
-
-This README provides an overview of the project, its structure, installation instructions, and usage. You can adjust the repository URL, dependencies, and other details based on your project's specific requirements.
